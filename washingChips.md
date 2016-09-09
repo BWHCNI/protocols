@@ -30,28 +30,36 @@ MATERIALS:
 
 CLEANING PROCEDURE (READ: GENERAL NOTES before proceeding):
 1. Place 75 silicon chips into the wire mesh strainer (each weighs 30mg).
-2. Place a magnetic stirring bar into a clean 600mL glass beaker followed by the metal strainer
-   containing the si chips.
+
+2. Place a magnetic stirring bar into a clean 600mL glass beaker followed by the metal strainer containing the si chips.
+
 3. Add 250 mL acetone into the beaker fully submerging the Si-chips.
+
 4. Turn on the magnetic stirrer (setting 2.5 or 3 on dial) and stir moderately for ½ - ¾ hour. Turn off the magnetic stirrer once the time has elapsed.
-5. Using the Misonix Sonicator 3000 with the 1/2” probe, sonicate the Si-chips, without stirring, at a
-   power setting of 18-21W (1.0 or 1.5 on dial) for 2 min. Note: The Misonix Sonicator 3000 has a timer.
-6. Pour off the acetone and discard into a container in the satellite accumulation area. Transfer the
-   strainer into a clean beaker and add 250mL methanol and repeat the sonication step as above.
-7. Pour off the methanol and discard into a container in the satellite accumulation area. Transfer the
-   strainer to a clean beaker and add 250mL Isopropanol and repeat the sonication step as above.
-8. Pour off the Isopropanol and discard into a container in the satellite accumulation area. Transfer the
-   strainer into a used beaker.
+
+5. Using the Misonix Sonicator 3000 with the 1/2” probe, sonicate the Si-chips, without stirring, at a power setting of 18-21W (1.0 or 1.5 on dial) for 2 min. Note: The Misonix Sonicator 3000 has a timer.
+
+6. Pour off the acetone and discard into a container in the satellite accumulation area. Transfer the strainer into a clean beaker and add 250mL methanol and repeat the sonication step as above.
+
+7. Pour off the methanol and discard into a container in the satellite accumulation area. Transfer the strainer to a clean beaker and add 250mL Isopropanol and repeat the sonication step as above.
+
+8. Pour off the Isopropanol and discard into a container in the satellite accumulation area. Transfer the strainer into a used beaker.
+
 9. Rinse the Si-chips with 900mL (300mL x 3) of 0.2 µ-filtered distilled water, ensuring the flow-through
-   does not touch the chips. Gently agitate so that all of the chips are rinsed. Remove the strainer
-   containing the Si-chips from the water and discard the water. Place a magnetic stirring bar into the
-   glass beaker followed by the strainer with the Si-chips.
+does not touch the chips. Gently agitate so that all of the chips are rinsed. Remove the strainer containing the Si-chips from the water and discard the water. Place a magnetic stirring bar into the glass beaker followed by the strainer with the Si-chips.
+
 10. Add 250mL of 0.2 µ-filtered distilled water into the beaker fully submerging the Si-chips. Turn on the magnetic stirrer (setting 2.5 or 3 on dial) and stir moderately for ½ hour. Turn off the magnetic stirrer.
+
 11. Remove the strainer from the water and transfer to a used beaker. Rinse the Si-chips thoroughly with 200mL of the 0.2 µ-filtered ethanol.
+
 12. Transfer the Si-chips into a clean sterile Petri dish. This is done by inverting the wire mesh strainer over the Petri dish and gently tapping it so that the Si-chips fall into the Petri dish.
+
 13. Pour 0.2 µ-filtered ethanol into the Petri dish completely submerging the Si-chips. Flip the Si-chips so that they all have their mirrored surfaces facing upwards.
+
 14. If necessary, use a cotton-tipped applicator to gently scrub each mirrored surface while it is fully submerged in ethanol.
+
 15. Transfer each Si-chip into a clean Petri dish and dry the mirrored surface with a stream of dry filtered nitrogen/argon gas.
+
 16. Count and place the clean Si-chips in the desiccator located in the tissue culture lab (Rm 538).
 
 GENERAL NOTES:
